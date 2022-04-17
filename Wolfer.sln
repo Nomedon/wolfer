@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{C25B0C41-A7B0-44F1-BB92-1C1DE5AA8A0E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wolfer", "Wolfer\Wolfer.vcxproj", "{FA3E1DE4-6817-4B5B-9988-82CDADA5257C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3E1DE4-6817-4B5B-9988-82CDADA5257C}.Debug|x64.ActiveCfg = Debug|x64
+		{FA3E1DE4-6817-4B5B-9988-82CDADA5257C}.Debug|x64.Build.0 = Debug|x64
+		{FA3E1DE4-6817-4B5B-9988-82CDADA5257C}.Release|x64.ActiveCfg = Release|x64
+		{FA3E1DE4-6817-4B5B-9988-82CDADA5257C}.Release|x64.Build.0 = Release|x64
+		{C25B0C41-A7B0-44F1-BB92-1C1DE5AA8A0E}.Debug|x64.ActiveCfg = Debug|x64
+		{C25B0C41-A7B0-44F1-BB92-1C1DE5AA8A0E}.Debug|x64.Build.0 = Debug|x64
+		{C25B0C41-A7B0-44F1-BB92-1C1DE5AA8A0E}.Release|x64.ActiveCfg = Release|x64
+		{C25B0C41-A7B0-44F1-BB92-1C1DE5AA8A0E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A97A77-01E7-406D-80A2-95A312F02794}
+	EndGlobalSection
+EndGlobal
