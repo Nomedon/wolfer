@@ -1,8 +1,9 @@
 #pragma once
 
 // For use by Wolfer application
-#include <stdio.h>
+
 #include "Wolfer/Application.h"
+#include "Wolfer/log.h"
 
 
 // --Entry Point --
