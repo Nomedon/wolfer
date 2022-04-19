@@ -4,6 +4,9 @@
     <Filter Include="Wolfer">
       <UniqueIdentifier>{B46BE5DA-A00D-10B1-89C8-230575099701}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Wolfer\Events">
+      <UniqueIdentifier>{1865FE74-8425-7AAB-4D60-C328B9DFBE87}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Wolfer.h" />
@@ -15,6 +18,18 @@
     </ClInclude>
     <ClInclude Include="src\Wolfer\EntryPoint.h">
       <Filter>Wolfer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Wolfer\Events\ApplicationEvent.h">
+      <Filter>Wolfer\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Wolfer\Events\Event.h">
+      <Filter>Wolfer\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Wolfer\Events\KeyEvent.h">
+      <Filter>Wolfer\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Wolfer\Events\MouseEvent.h">
+      <Filter>Wolfer\Events</Filter>
     </ClInclude>
     <ClInclude Include="src\Wolfer\Log.h">
       <Filter>Wolfer</Filter>
