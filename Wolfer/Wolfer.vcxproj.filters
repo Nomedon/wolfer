@@ -34,6 +34,7 @@
     <ClInclude Include="src\Wolfer\Log.h">
       <Filter>Wolfer</Filter>
     </ClInclude>
+    <ClInclude Include="src\wfpch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Wolfer\Application.cpp">
@@ -42,5 +43,6 @@
     <ClCompile Include="src\Wolfer\Log.cpp">
       <Filter>Wolfer</Filter>
     </ClCompile>
+    <ClCompile Include="src\wfpch.cpp" />
   </ItemGroup>
 </Project>

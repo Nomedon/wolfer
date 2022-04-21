@@ -2,9 +2,6 @@
 
 #include "Event.h"
 
-#include <sstream>
-
-
 namespace Wolfer
 {
 	class WOLFER_API WindowResizeEvent :public Event

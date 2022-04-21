@@ -20,6 +20,9 @@ project "Wolfer"
 	targetdir("bin/" .. outputdir .. "/%{prj.name}")
 	objdir("bin-int/" .. outputdir .. "/%{prj.name}")
 
+	pchheader "wfpch.h"
+	pchsource "Wolfer/src/wfpch.cpp"
+
 	files
 	{
 		"%{prj.name}/src/**.h",

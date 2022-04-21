@@ -2,9 +2,6 @@
 
 #include "Wolfer/Core.h"
 
-#include <string>
-#include <functional>
-
 namespace Wolfer
 {
 	enum class EventType
